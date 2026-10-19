@@ -1,0 +1,10 @@
+{
+  "description": "Facilitates waste separation for citizens in Portugal by identifying the correct recycling points and providing guidance on proper disposal methods.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
